@@ -54,3 +54,4 @@ int main() { /*lengkapi disini*/
     Bujursangkar b;
 }
 
+
